@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Filtros_de_Intencion</string>
+    <string name="edtHintUrl">Escribe URL</string>
+    <string name="btnExplicito">CARGAR WEB EXPLICITAMENTE</string>
+    <string name="btnImplicito">CARGAR WEB IMPLICITAMENTE</string>
+    <string name="llamadExplicita">Ejemplo Explicito</string>
+    <string name="llamadaImplicita">Ejemplo Implicita</string>
+</resources>
